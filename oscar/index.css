@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+}
+
+article {
+    flex-grow: 1;
+}
